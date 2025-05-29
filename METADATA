@@ -1,0 +1,16 @@
+name: "SPIRV-Headers"
+description:
+    "This repository contains machine-readable files for the SPIR-V Registry"
+
+third_party {
+homepage: "https://github.com/KhronosGroup/SPIRV-Headers"
+  identifier {
+    type: "Git"
+    value: "https://github.com/KhronosGroup/SPIRV-Headers"
+    primary_source: true
+    version: "3f17b2af6784bfa2c5aa5dbb8e0e74a607dd8b3b"
+  }
+  version: "3f17b2af6784bfa2c5aa5dbb8e0e74a607dd8b3b"
+  last_upgrade_date { year: 2025 month: 4 day: 15 }
+  license_type: NOTICE
+}
