@@ -8,14 +8,14 @@ third_party {
   license_type: NOTICE
   last_upgrade_date {
     year: 2025
-    month: 5
-    day: 30
+    month: 9
+    day: 1
   }
   homepage: "https://github.com/KhronosGroup/SPIRV-Headers"
   identifier {
     type: "Git"
     value: "https://github.com/KhronosGroup/SPIRV-Headers"
-    version: "7c2f5333e9c662620581361dffc327a99800bb52"
+    version: "vulkan-sdk-1.4.321.0"
     primary_source: true
   }
 }
