@@ -15,7 +15,8 @@ third_party {
   identifier {
     type: "Git"
     value: "https://github.com/KhronosGroup/SPIRV-Headers"
-    version: "vulkan-sdk-1.4.328.0"
+    version: "01e0577914a75a2569c846778c2f93aa8e6feddd"
+    closest_version: "vulkan-sdk-1.4.328.0"
     primary_source: true
   }
 }
